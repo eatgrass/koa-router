@@ -1,9 +1,9 @@
 {
-  "name": "koa-router",
-  "description": "Router middleware for koa. Provides RESTful resource routing.",
+  "name": "koa-yh-router",
+  "description": "Koa router for api versioning",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexmingoia/koa-router.git"
+    "url": "https://github.com/eatgrass/koa-router.git"
   },
   "main": "lib/router.js",
   "files": [
